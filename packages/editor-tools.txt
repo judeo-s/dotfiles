@@ -1,0 +1,9 @@
+# Language servers and formatters available in the Arch repositories.
+stylua
+python-black
+prettier
+go-tools
+gopls
+bash-language-server
+typescript-language-server
+pyright

@@ -1,0 +1,41 @@
+{
+    "appearance": {
+        "transparency": {
+            "enabled": false
+        }
+    },
+    "background": {
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "clock": {
+            "background": false,
+            "showDate": true,
+            "showSeconds": false
+        },
+        "tray": {
+            "background": false,
+            "compact": false,
+            "recolour": false
+        },
+        "workspaces": {
+            "occupiedBg": false
+        }
+    },
+    "general": {
+        "apps": {
+            "explorer": [
+                "dolphin"
+            ],
+            "terminal": [
+                "foot"
+            ]
+        }
+    },
+    "paths": {
+        "wallpaperDir": "~/Pictures/Wallpapers"
+    },
+    "services": {
+        "smartScheme": true
+    }
+}

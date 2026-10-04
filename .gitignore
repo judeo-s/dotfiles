@@ -1,0 +1,21 @@
+# Private/runtime files must never become part of the config snapshot.
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+machine.env
+machine.lua
+*.log
+*.sqlite*
+*.swp
+*.swo
+.zsh_history
+.bash_history
+.zcompdump*
+typrstats
+Session.vim
+sessions/
+node_modules/
+build/
+*.pkg.tar.*
