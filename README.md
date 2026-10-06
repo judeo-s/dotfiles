@@ -1,4 +1,4 @@
-# Oni's dotfiles
+# dotfiles
 
 My configs and a small installer so I don't have to set everything up from scratch
 on a new computer, VM, or server.
